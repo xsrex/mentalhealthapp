@@ -14,6 +14,8 @@
         - Emergency resources
         - Mood tracker
         - Journal
+        - Relations
+        - In-depth weekly mood questionnaire
         - Weekly mental check-ins
 - **Onboarding process**:
   
